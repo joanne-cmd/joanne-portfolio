@@ -5,7 +5,7 @@ const Home = () => {
                 <p>Hello My name is </p>
                 <h1>Joanne Muthoni</h1>
                 <p>A creative writer and a software engineer</p>
-                <img src="src/assets/joanne.jpg" alt="joanne img"/>
+                <img className="h-24 w-34" src="src/assets/joanne.jpg" alt="joanne img"/>
             </div>
             <div>
                 <button>know more</button>
